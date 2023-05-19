@@ -20,3 +20,10 @@ nr1 create
 ```
 
 > Example: `nr1 create --type nerdlet --name my-nerdlet`.
+
+# ScreenShots
+
+![first img](./sschrts/pie.png)
+
+
+![second img](./sschrts/line.png)
